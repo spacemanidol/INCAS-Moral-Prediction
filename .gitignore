@@ -1,3 +1,6 @@
+#datasets
+data/MFTC_V4_text.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
